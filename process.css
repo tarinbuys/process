@@ -1,0 +1,74 @@
+/* Our process section starts*/
+.our-process-section{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.our-process-img{
+    width: 500px;
+}
+.our-process-text{
+    width: 50%;
+}
+.our-process-sub-heading{
+    font-weight: 700;
+    text-align: start;
+    font-size: 16px;
+    color: #374B92;
+    margin: 0;
+    padding: 90px 0px 0px 0px;
+    
+}
+.our-process-heading{
+    text-align: start;
+    font-size: 38px;
+    font-weight: 500;
+    padding: 0;
+    margin: 0px;
+}
+.stages-section{
+    display: flex;
+}
+.stage{
+    background-color: #05121A;
+    color: #fff;
+    padding: 0px 10px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 15px;
+}
+.stage-active{
+    background-color: #374B92;
+    color: #fff;
+    padding: 0px 10px;
+    margin: 0px 10px 0px 0px;
+    border-radius: 15px;
+}
+.our-process-text-section{
+    display: flex;
+}
+.stage-number-container{
+    width: 300px;
+    margin: auto;
+}
+.stage-number{
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+.stage-text{
+    padding-left: 20px;
+}
+.stage-text-heading{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bullet, .stage-text-p{
+    font-size: 16px;
+}
+.our-process-img-section{
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+/* Our process section ends*/
